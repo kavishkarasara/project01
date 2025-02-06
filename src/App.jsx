@@ -5,7 +5,7 @@ import Upper from "./Components/Upper/Upper";
 function App() {
   return (
     <>
-      <section className="flex flex-col gap-6 p-4">
+      <section className="">
         <Upper />
         <Lower />
       </section>
