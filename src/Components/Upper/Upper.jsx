@@ -19,7 +19,7 @@ function Upper() {
               </button>
           </div>
 
-          <div className="w-full h-[500px] md:h-[350px]  md:w-[350px] bg-center bg-cover mt-0 md:mt-0 md:-ml-40 lg:h-[400px]" 
+          <div className="w-full h-[500px] md:h-[350px]  md:w-[400px] bg-center bg-cover mt-0 md:mt-0 md:-ml-40 lg:h-[400px]" 
             style={{
               backgroundImage: "url('/src/assets/image/pic2.jpg')",
             }}
@@ -28,14 +28,14 @@ function Upper() {
           </div>
         </section>
         
-        <div className="flex flex-col md:flex-row items-center justify-center gap-6   w-full max-w-7xl">
+        <div className="flex flex-col md:flex-row items-center justify-center gap-6  w-full max-w-7xl">
           <div
-            className="w-full h-[400px] md:w-[400px] md:h-[350px] bg-center bg-cover z-0 ml-6"
+            className="w-full  md:w-[350px] md:h-[350px] bg-center bg-cover z-0 ml-6 mr-6 sm:w-[600px]"
             style={{
               backgroundImage: "url('/src/assets/image/pic1.jpg')",
             }}
           ></div>
-          <div className="bg-transparent md:bg-white/40 rounded-full p-4 md:p-6 w-full md:w-[768px] md:h-[250px] z-10 md:-ml-20">
+          <div className="bg-transparent md:bg-white/40 md:rounded-full p-4 md:p-6 w-full md:w-[768px] md:h-[250px] z-10 md:-ml-20 sm:rounded-xl sm:bg-white/40 ">
             <div className="flex flex-col md:flex-row items-start md:items-center justify-center gap-6">
               <div className="w-full md:w-[150px] text-start p-2">
                 <h3 className="text-xl md:text-2xl font-bold">5.8</h3>
