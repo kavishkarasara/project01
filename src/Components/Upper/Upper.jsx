@@ -14,7 +14,7 @@ function Upper() {
               <p className="text-black text-sm sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 pt-4 sm:pt-6">
               Create a space that reflects your style with ABC (pvt) Ltd. We turn your vision into reality, crafting rooms that are both beautiful and functional.
               </p>
-              <button className="bg-black text-white py-2 sm:py-3 px-5 sm:px-8 text-lg rounded-full outline-none transition delay-150 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-gray-500 duration-300">
+              <button className="bg-black text-white py-2 sm:py-3 px-5 sm:px-8 text-lg rounded-full outline-none transition delay-150 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-gray-800 duration-300">
               Explore
               </button>
           </div>

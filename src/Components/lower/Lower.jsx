@@ -43,7 +43,7 @@ function Lower() {
                 <p className="text-4xl  text-gray-400">03</p>
                 <p className="text-lg text-gray-600 lg:pb-6">Our skilled team brings the design to life with precision and attention to detail.</p>
               </div>
-              <div className="mt-10 relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl">
+              <div className="mt-10 relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl sm:bg-bottom md:bg-bottom">
                 <img src="/src/assets/image/pic5.jpg" alt="Execution" className="object-cover w-full h-full " />
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4 text-white">
                   <h2 className="font-semibold text-lg">Execution</h2>
