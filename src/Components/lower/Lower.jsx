@@ -54,7 +54,7 @@ function Lower() {
             <div className="flex flex-col space-y-4">
               <div className="space-y-2">
                 <p className="text-4xl  text-gray-400">04</p>
-                <p className="text-lg text-gray-600 xl:pb-6 2xl:pb-0 ">Your dream environment is now a reality, tailored to your lifestyle and preferences.</p>
+                <p className="text-lg text-gray-600 xl:pb-6 2xl:pb-0  ">Your dream environment is now a reality, tailored to your lifestyle and preferences.</p>
               </div>
               <div className="relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl">
                 <img src="/src/assets/image/pic6.jpg" alt="Revelation" className="object-bottom w-full h-full" />
