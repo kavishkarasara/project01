@@ -25,10 +25,10 @@ function Lower() {
                 </div>
               </div>
             </div>
-            <div className="flex flex-col space-y-4">
+            <div className="flex flex-col space-y-4 ">
               <div className="space-y-2">
                 <p className="text-4xl  text-gray-400">02</p>
-                <p className="text-lg text-gray-600">Every detail is carefully planned to create a space that is both functional and aesthetically pleasing.</p>
+                <p className="text-lg text-gray-600 xxl:text-4xl 2xl:pb-2">Every detail is carefully planned to create a space that is both functional and aesthetically pleasing.</p>
               </div>
               <div className="relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl">
                 <img src="/src/assets/image/pic4.jpg" alt="Planning" className="object-cover w-full h-full" />
@@ -41,7 +41,7 @@ function Lower() {
             <div className="flex flex-col space-y-4">
               <div className="space-y-2">
                 <p className="text-4xl  text-gray-400">03</p>
-                <p className="text-lg text-gray-600 lg:pb-6">Our skilled team brings the design to life with precision and attention to detail.</p>
+                <p className="text-lg text-gray-600 lg:pb-7 2xl:pb-0">Our skilled team brings the design to life with precision and attention to detail.</p>
               </div>
               <div className="mt-10 relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl sm:bg-bottom md:bg-bottom">
                 <img src="/src/assets/image/pic5.jpg" alt="Execution" className="object-cover w-full h-full " />
@@ -54,10 +54,10 @@ function Lower() {
             <div className="flex flex-col space-y-4">
               <div className="space-y-2">
                 <p className="text-4xl  text-gray-400">04</p>
-                <p className="text-lg text-gray-600 xl:pb-6 ">Your dream environment is now a reality, tailored to your lifestyle and preferences.</p>
+                <p className="text-lg text-gray-600 xl:pb-6 2xl:pb-0 ">Your dream environment is now a reality, tailored to your lifestyle and preferences.</p>
               </div>
               <div className="relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl">
-                <img src="/src/assets/image/pic6.jpg" alt="Revelation" className="object-cover w-full h-full" />
+                <img src="/src/assets/image/pic6.jpg" alt="Revelation" className="object-bottom w-full h-full" />
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4 text-white">
                   <h2 className="font-semibold text-lg">Revelation</h2>
                   <p className="text-sm">Experience the joy of stepping into a beautifully transformed space.</p>

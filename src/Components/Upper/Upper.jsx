@@ -36,7 +36,7 @@ function Upper() {
             }}
           ></div>
           <div className="bg-transparent md:bg-white/40 md:rounded-full p-4 md:p-6 w-full md:w-[768px] md:h-[250px] z-10 md:-ml-20 sm:rounded-xl sm:bg-white/40 ">
-            <div className="flex flex-col md:flex-row items-start md:items-center justify-center gap-6">
+            <div className="flex flex-col md:flex-row items-start md:items-center justify-center lg:gap-6  custom:gap-0">
               <div className="w-full md:w-[150px] text-start p-2">
                 <h3 className="text-xl md:text-2xl font-bold">5.8</h3>
                 <p className="my-2">---</p>
