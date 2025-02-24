@@ -28,7 +28,7 @@ function Lower() {
             <div className="flex flex-col space-y-4 ">
               <div className="space-y-2">
                 <p className="text-4xl  text-gray-400">02</p>
-                <p className="text-lg text-gray-600 xxl:text-4xl 2xl:pb-2">Every detail is carefully planned to create a space that is both functional and aesthetically pleasing.</p>
+                <p className="text-lg text-gray-600 ">Every detail is carefully planned to create a space that is both functional and aesthetically pleasing.</p>
               </div>
               <div className="relative h-64 w-full rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl">
                 <img src="/src/assets/image/pic4.jpg" alt="Planning" className="object-cover w-full h-full" />
